@@ -38,4 +38,8 @@
 </div>
 
 ## **Video Minh Họa**
-
+### Video minh họa:
+<video width="100%" controls>
+  <source src="intro_image\demo_sp.mkv" type="video/mp4">
+  Trình duyệt của bạn không hỗ trợ thẻ video.
+</video>
