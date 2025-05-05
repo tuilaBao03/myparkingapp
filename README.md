@@ -27,8 +27,15 @@
 
 ## **Hình Ảnh Minh Họa**
 
-![Giao diện SignIn](intro_image/z6478659435049_2a467a5a39523465c0440a6cde813a4d.jpg)
-![Giao diện Home](intro_image/z6478693982312_8203e2490923d4120c1ea3fec2353ff1.jpg)
-![ChatBot](intro_image/z6478817219625_04d653e3e5885c24c1687fd916c9ac05.jpg)
-![TomTomMap](intro_image/z6478817219625_04d653e3e5885c24c1687fd916c9ac05.jpg)
-![VN PAY](intro_image/vnpay.jpg)
+<div style="display: flex; justify-content: space-between; gap: 10px;">
+    <img src="intro_image/z6478659435049_2a467a5a39523465c0440a6cde813a4d.jpg" alt="SignIn" width="30%">
+    <img src="intro_image/z6478693982312_8203e2490923d4120c1ea3fec2353ff1.jpg" alt="Home" width="30%">
+    <img src="intro_image/z6478817219625_04d653e3e5885c24c1687fd916c9ac05.jpg" alt="ChatBot" width="30%">
+</div>
+<div style="display: flex; justify-content: space-between; gap: 10px;">
+    <img src="intro_image/z6478817219625_04d653e3e5885c24c1687fd916c9ac05.jpg" alt="TomTomMap" width="30%">
+    <img src="intro_image/vnpay.jpg" alt="VN PAY" width="30%">
+</div>
+
+## **Video Minh Họa**
+
